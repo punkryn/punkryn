@@ -34,6 +34,15 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black">
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black">
 
+## ⚡Activity
+### 부스트캠프 웹・모바일 7기 Challenge
+
+![boost](https://user-images.githubusercontent.com/22855979/188828732-fa51e8ad-6aaa-4f1e-8b23-032315b0bd04.png)
+
+웹풀스택
+
+2022-07-18 ~ 2022-08-12
+
 
 
 <!--
